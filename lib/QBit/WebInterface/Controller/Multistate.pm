@@ -42,3 +42,33 @@ sub graph : CMD : DEFAULT {
 }
 
 TRUE;
+
+__END__
+
+=encoding utf8
+
+=head1 Name
+
+QBit::WebInterface::Controller::Multistate - View multistates in QBit application.
+
+=head1 GitHub
+
+https://github.com/QBitFramework/QBit-WebInterface-Controller-Multistate
+
+=head1 Install
+
+=over
+
+=item *
+
+cpanm QBit::WebInterface::Controller::Multistate
+
+=item *
+
+apt-get install libqbit-webinterface-controller-multistate-perl (http://perlhub.ru/)
+
+=back
+
+For more information. please, see code.
+
+=cut
